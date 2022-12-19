@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="styles.css" rel="stylesheet" />
+    <title>yoda-speak-translator</title>
+  </head>
+  <body>
+    <header class="header">
+      <h1>Yoda Speak Translator</h1>
+    </header>
+
+    <section class="section">
+      <div class="container yoda">
+        <img src="/images/yoda.png" />
+      </div>
+      <div id="app-desc">
+        Translator to convert normal english to master yoda's accent. Yoda often
+        orders sentences as Object-Subject-Verb, split verbs, switches entire
+        phrases and sometimes uses sentences that are different from his normal
+        syntax. Have fun and may the force be with you.
+      </div>
+      <textarea
+        id="txt-input"
+        placeholder="Please type in your text here so that our Yoda Speak Translator can do the magic..."
+      ></textarea>
+      <button id="btn-translate">Ask Master Yoda To Speak</button>
+      <div>Master Yoda will speak here 👇🏾</div>
+      <div id="output">
+        <img
+          src="https://img.icons8.com/external-flat-icons-inmotus-design/29/null/external-Yoda-star-wars-flat-icons-inmotus-design-2.png"
+        />
+      </div>
+    </section>
+
+    <footer class="footer container-fluid">
+      <div class="container-footer">
+        <div class="heading">social media presence</div>
+        <ul class="unordered list-inline">
+          <li>
+            <a
+              class="link"
+              target="_blank"
+              href="https://github.com/gautam-balamurali"
+            >
+              github
+            </a>
+          </li>
+          <li>
+            <a
+              class="link"
+              target="_blank"
+              href="https://www.linkedin.com/in/gautam-balamurali"
+            >
+              linkedin
+            </a>
+          </li>
+          <li>
+            <a
+              class="link"
+              target="_blank"
+              href="https://twitter.com/codewithash"
+            >
+              twitter
+            </a>
+          </li>
+        </ul>
+        <div id="copyrt-txt"></div>
+      </div>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
