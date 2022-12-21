@@ -12,6 +12,12 @@ o/p: gautam, my name is
 
 ![image](https://user-images.githubusercontent.com/27736288/208899827-78d4e1a0-2a39-4c25-94a5-d9fc9dba6922.png)
 
+# Tech Stack
+
+* HTML
+* CSS
+* JavaScript
+* Netlify
 
 # Preview
 
