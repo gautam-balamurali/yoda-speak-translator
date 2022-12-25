@@ -1,6 +1,7 @@
 # yoda-speak-translator
 
-Translator to covert normal english to master yoda's accent of Star Wars movie series. Yoda often orders sentences as Object-Subject-Verb, split verbs, switches entire phrases and sometimes uses sentences that are different from his normal syntax.
+* Translator to covert normal english to master yoda's accent of Star Wars movie series.
+* Yoda often orders sentences as Object-Subject-Verb, split verbs, switches entire phrases and sometimes uses sentences that are different from his normal syntax.
 
 # Sample input/output
 
