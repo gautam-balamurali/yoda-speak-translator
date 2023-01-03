@@ -38,7 +38,7 @@ function clickHandler() {
  * To make the copyright year generic
  */
 let getCurrentYear = new Date().getFullYear();
-copyrightText.innerText = `© ${getCurrentYear} ! all rights reserved`;
+copyrightText.innerText = `© ${getCurrentYear} | all rights reserved`;
 
 /**
  * Listening to the click event
